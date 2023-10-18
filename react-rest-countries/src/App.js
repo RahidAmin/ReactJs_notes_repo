@@ -47,4 +47,5 @@ function Country(props)
     </div>
   )
 }
+// react
 export default App;
