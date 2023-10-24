@@ -1,0 +1,9 @@
+.countryClass{
+    background-color: aqua;
+    margin: 20px;
+    padding: 3px;
+    border-radius: 10px;
+  }
+  .countryClass img{
+    width: 10rem;
+  }
